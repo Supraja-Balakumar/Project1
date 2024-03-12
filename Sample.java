@@ -4,5 +4,6 @@ class Sample
     {
       System.out.println("Hello github");
       System.out.println("Hello world);
+      System.out.println("Java");
     }
   }
